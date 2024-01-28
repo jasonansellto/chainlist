@@ -63,10 +63,10 @@ function Home({ chains }) {
   return (
     <>
       <Head>
-        <title>ChainList</title>
+        <title>VSC ChainConnect</title>
         <meta
           name="description"
-          content="ChainList is a list of RPCs for EVM(Ethereum Virtual Machine) networks. Use the information to connect your wallets and Web3 middleware providers to the appropriate Chain ID and Network ID. Find the best RPC for both Mainnet and Testnet to connect to the correct chain"
+          content="ChainConnect by VSC is a live directory of EVM networks and RPC info. Users can access information or connect to their wallets in just one click. Easily find the appropriate Chain ID and Network ID to connect to your Web3 dApps."
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
