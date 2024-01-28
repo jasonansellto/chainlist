@@ -1,12 +1,12 @@
 {
   "Common": {
     "connect-wallet": "Connect Wallet",
-    "view-source-code": "View Code",
+    "view-source-code": "VSC Multichain Dex",
     "join-our-discord": "Join Discord",
     "currency": "Currency",
     "search-networks": "Search Networks",
-    "description": "ChainList is a list of EVM networks. Users can use the information to connect their wallets and Web3 middleware providers to the appropriate Chain ID and Network ID to connect to the correct chain.",
-    "help-info": "VSC compatible EVM powered networks",
+    "description": "ChainConnect by VSC is a live directory of EVM networks and RPC info. Users can access information or connect their wallets in one click. Easily find the appropriate Chain ID and Network ID to connect to your Web3 dApps.",
+    "help-info": "VSC connecting users on EVM compatible networks",
     "add-your-network": "Add Your Network",
     "add-your-rpc": "Add Your RPC",
     "language": "中文",
