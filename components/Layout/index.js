@@ -70,7 +70,7 @@ export default function Layout({ children, lang }) {
 
             <a
               className="flex items-center justify-center mx-auto lg:ml-0 gap-2 rounded-[50px] max-w-[16.25rem] font-medium py-[17px] px-6 w-full dark:bg-[#0D0D0D] bg-white dark:text-[#2F80ED] text-[#2F80ED] border dark:border-[#171717] border-[#EAEAEA]"
-              href="https://github.com/DefiLlama/chainlist/blob/main/constants/extraRpcs.js"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -90,7 +90,7 @@ export default function Layout({ children, lang }) {
 
           <a
             className="flex items-center gap-2 mx-auto lg:ml-0"
-            href="https://github.com/DefiLlama/chainlist"
+            href="#"
             target="_blank"
             rel="noopener noreferrer"
           >
