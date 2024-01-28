@@ -94,7 +94,7 @@ const NativeTextContent = ({ ad }) => {
       <AdvertiserIcon ad={ad} small={width < 300} />
       <div className="grow flex items-center justify-between overflow-hidden">
         <div className="grow truncate">
-          <AdvertiserName ad={ad} small={width < 300} />
+          ADVERTISE HERE
         </div>
         <div className="flex-none ml-4">
           <AdvertiserCta ad={ad} small={width < 300} />
