@@ -91,13 +91,13 @@ const NativeTextContent = ({ ad }) => {
 
   return (
     <div className="flex items-center justify-center px-3 py-3 w-full h-full" id="ctaContainer" ref={containerRef}>
-      <AdvertiserIcon ad={ad} small={width < 300} />
+      <img src="https://vitaliksmartchain.com/assets/images/vsg-icon-32.png"></img>
       <div className="grow flex items-center justify-between overflow-hidden">
         <div className="grow truncate">
-          ADVERTISE HERE
+          VSG/WETH
         </div>
         <div className="flex-none ml-4">
-          <AdvertiserCta ad={ad} small={width < 300} />
+          <a href="https://vsgofficial.com">LEARN MORE</a>
         </div>
       </div>
     </div>
