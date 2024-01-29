@@ -63,10 +63,10 @@ function Home({ chains }) {
   return (
     <>
       <Head>
-        <title>VSC ChainConnect</title>
+        <title>Blockchian List</title>
         <meta
           name="description"
-          content="ChainConnect by VSC is a live directory of EVM networks and RPC info. Users can access information or connect to their wallets in just one click. Easily find the appropriate Chain ID and Network ID to connect to your Web3 dApps."
+          content="Blockchain List by VSC is a live directory of EVM networks and RPC info. Users can access information or connect to their wallets in just one click. Easily find the appropriate Chain ID and Network ID to connect to your Web3 dApps."
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
