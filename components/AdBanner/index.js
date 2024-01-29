@@ -53,7 +53,7 @@ const NativeWrapper = ({ ad }) => {
         <div className="flex">
           <NativeLink>
             <div className="relative" ref={imageRef}>
-              <NativeMediaContent />
+              <img src="https://vitaliksmartchain.com/assets/images/ad-sm.png"></img>
 
               <HypeLabOverlay />
             </div>
@@ -97,7 +97,7 @@ const NativeTextContent = ({ ad }) => {
           VSG/WETH
         </div>
         <div className="flex-none ml-4">
-          <a href="https://vsgofficial.com">LEARN MORE</a>
+          <a href="https://vsgofficial.com">Learn More</a>
         </div>
       </div>
     </div>
