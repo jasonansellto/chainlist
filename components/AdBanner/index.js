@@ -51,13 +51,11 @@ const NativeWrapper = ({ ad }) => {
         }`}
       >
         <div className="flex">
-          <NativeLink>
             <div className="relative" ref={imageRef}>
               <img src="https://vitaliksmartchain.com/assets/images/ad-sm.png"></img>
 
               <HypeLabOverlay />
             </div>
-          </NativeLink>
         </div>
         {isSquare || hideNativeTextContent ? "" : <NativeTextContent ad={ad} />}
       </div>
