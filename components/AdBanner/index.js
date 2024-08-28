@@ -52,7 +52,7 @@ const NativeWrapper = ({ ad }) => {
       >
         <div className="flex">
             <div className="relative" ref={imageRef}>
-              <img src="https://vitaliksmartchain.com/assets/images/ad-sm.png"></img>
+              <img src="https://vsgofficial.com/assets/images/ad-sm.png"></img>
 
               <HypeLabOverlay />
             </div>
